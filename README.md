@@ -1,80 +1,62 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nabeel+Ali;Agentic+AI+Engineer+%7C+Next.js+Expert;Building+Autonomous+AI+Tools+%26+UIs" alt="Typing SVG" />
-</h1>
+# Hi there, I'm Muhammad Nabeel Ali 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
-</p>
+## 🧠 Agentic AI Engineer | Python & TypeScript Developer
+
+I am a developer based in **Karachi, Pakistan**, focused on building **intelligent, goal-driven AI agents** that think, plan, and act. My work bridges the gap between traditional software engineering and autonomous AI, creating systems that don't just respond but execute complex workflows.
 
 ---
 
-## 🧠 About Me
+### 🛠️ Tech Stack & Arsenal
 
-```ts
-const NabeelAli = {
-  role: 'Agentic AI Engineer',
-  stack: ['Next.js', 'TypeScript', 'OpenAI SDK', 'Chainlit', 'LangChain'],
-  building: ['Autonomous AI Tools', 'Agent Workflows', 'Dynamic Frontends'],
-  tools: ['VS Code', 'GitHub', 'Vercel', 'Railway', 'Python'],
-  mindset: ['System Thinker', 'Prompt Engineer', 'Creative Coder'],
-  mission: 'Build useful, intelligent, self-operating software systems',
-};
-```
+| **Core** | **AI & Agents** | **Web Frameworks** | **Tools & Cloud** |
+| :--- | :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | **Chainlit** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
 
-## 🚀 Tech Arsenal
+### 🤖 Featured Projects
 
+I specialize in building autonomous tools and AI workflows. Here are a few highlights:
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🧠 Jani** | A hyperlocal AI Agent for Karachi that assists with navigation, traffic updates, and food recommendations. | Python, AI Agents |
+| **📄 Resume Builder AI** | An intelligent resume creation tool with editable live previews, powered by Generative AI. | TypeScript, OpenAI, Next.js |
+| **🔍 IlmBot** | A specialized knowledge retrieval assistant built to fetch and synthesize information efficiently. | Chainlit, Python |
+| **🧩 WeighBot** | An AI agent designed to streamline and automate warehouse operations and logistics. | AI Agents, Automation |
+| **🚀 Growth Mindset App** | A Python-based application designed to foster personal growth and tracking. | Python, Streamlit |
+
+---
+
+### 📊 GitHub Activity
+
+<!-- markdownlint-disable MD033 -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,js,py,react,nodejs,html,css,vercel,git,github,vscode" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/OpenAI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-202020?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/uv-fastapi-blue?style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NabeelManjhoti&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabeelManjhoti&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
+<!-- markdownlint-enable MD033 -->
 
 ---
 
-## 🤖 Agentic Projects
+### 💡 Philosophy
 
-- 🧩 `WeighBot` — AI Agent for warehouse operations  
-- 🔍 `IlmBot` — Chainlit-based knowledge retrieval assistant  
-- 📄 `Resume Builder AI` — Editable + Live Preview Resumes using OpenAI + TypeScript  
-- 🧠 `Jani` — Hyperlocal AI Agent for Karachi (navigation, traffic, food)  
-- ⚡ Coming soon: **Autonomous UI Agents** for smart dashboards
+> *"Agentic systems don't just respond. They act with purpose."*
+
+My goal is to build tools that think, decide, and execute — mirroring human agency to solve complex problems autonomously.
 
 ---
 
-## 📈 GitHub Activity
+### 🌐 Connect with Me
 
+<!-- markdownlint-disable MD033 -->
 <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=NabeelManjhoti&theme=radical&show_icons=true&hide_border=true&custom_title=Nabeel%27s+GitHub+Stats" />
-  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=NabeelManjhoti&theme=radical&hide_border=true" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nabeel-ali-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabeel-ali-329541291)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nabeelali118@gmail.com)
+
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NabeelManjhoti&theme=react-dark&hide_border=true" width="100%"/>
-</div>
-
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/nabeelalimanjhoti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://github.com/NabeelManjhoti" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge" /></a>
-  <a href="mailto:nabeelalimanjhoti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-</div>
-
----
-
-## 💡 Philosophy
-
-> 🧭 “Agentic systems don’t just respond. They act with purpose.”  
-> ⚡ My goal is to build tools that **think**, **decide**, and **execute** — just like human agents.
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<!-- markdownlint-enable MD033 -->
