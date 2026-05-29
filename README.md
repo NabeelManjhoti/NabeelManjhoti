@@ -1,119 +1,141 @@
 ````md
+<div align="center">
+
 # Nabeel Ali
 
-Full-Stack Developer focused on building fast, scalable, and modern web applications using AI-assisted workflows.
+### Full-Stack Developer • AI-Powered Builder • SaaS MVP Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Next.js+%2B+TypeScript+Developer;AI-Assisted+Fast+Development;Shipping+Products+in+Days+Not+Months" />
+
+</div>
 
 ---
 
 ## About Me
 
-I build production-ready applications with clean UI, scalable architecture, and rapid development workflows.
+Full-stack developer focused on building fast, scalable, and modern applications using AI-assisted workflows.
 
-With strong experience in:
-- Next.js
-- TypeScript
-- React
-- FastAPI
-- Tailwind CSS
-- AI-powered development workflows
+I specialize in creating:
+- SaaS applications
+- Dashboards
+- Inventory systems
+- Restaurant platforms
+- AI-integrated products
+- Production-ready MVPs
 
-I can turn ideas into working products in days instead of months.
+⚡ Capable of turning ideas into working products in days instead of months.
 
 ---
 
-## Tech Stack
+# Tech Stack
+
+<div align="center">
 
 ### Frontend
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-- HTML5
-- CSS3
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css" />
 
 ### Backend
-- FastAPI
-- Node.js
-- REST APIs
 
-### Database & Services
-- Supabase
-- Firebase
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,firebase,supabase" />
 
-### Tools
-- Claude Code CLI
-- GitHub
-- Vercel
-- Git
-- Speckit
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+
+</div>
 
 ---
 
-## What I Build
-
-- SaaS Applications
-- AI-Powered Tools
-- Admin Dashboards
-- Inventory Management Systems
-- Restaurant Ordering Platforms
-- Responsive Landing Pages
-- Full-Stack Web Applications
-
----
-
-## Current Focus
-
-- Building fast MVPs
-- AI-assisted software development
-- SaaS architecture
-- Real-world business systems
-- Modern UI/UX
-
----
-
-## Featured Projects
-
-### Inventory Management System
-A warehouse and stock management dashboard designed for real business operations.
-
-### Restaurant Ordering Platform
-Modern ordering system with responsive UI and admin management features.
-
-### AI SaaS Applications
-Fast-built scalable MVPs using Next.js and TypeScript.
-
----
-
-## Development Philosophy
-
-- Clean code
-- Fast execution
-- Scalable systems
-- Mobile-first UI
-- Real business value
-- Performance-focused development
-
----
-
-## GitHub Stats
+# What I Build
 
 ```txt
-Building products. Shipping fast. Learning continuously.
+✓ AI-Powered SaaS Applications
+✓ Admin Dashboards
+✓ Inventory Management Systems
+✓ Restaurant Ordering Platforms
+✓ Responsive Landing Pages
+✓ Full-Stack Web Applications
+✓ Fast MVP Development
 ````
 
 ---
 
-## Connect With Me
+# Current Focus
 
-* GitHub: https://github.com/NabeelManjhoti
-* LinkedIn: Add your LinkedIn profile
-* Portfolio: Add your portfolio link
+```yaml
+Building:
+  - AI-powered products
+  - SaaS systems
+  - Real-world business tools
+  - Fast MVP workflows
+
+Learning:
+  - Advanced architecture
+  - System scalability
+  - AI development pipelines
+```
 
 ---
 
-## Fun Fact
+# Featured Projects
 
-I combine real-world warehouse and operations experience with modern full-stack development to build practical software solutions for businesses.
+## Inventory Management System
 
+Modern warehouse and stock management dashboard designed for real business operations.
+
+## Restaurant Ordering Platform
+
+Responsive ordering system with admin dashboard and order management features.
+
+## AI SaaS Applications
+
+Scalable MVPs built with Next.js, TypeScript, and AI-assisted workflows.
+
+---
+
+# GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NabeelManjhoti&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=NabeelManjhoti&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# Development Philosophy
+
+```txt
+Clean UI
+Fast Performance
+Scalable Architecture
+Mobile-First Design
+Rapid Execution
+Real Business Value
 ```
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/NabeelManjhoti)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nabeelalimanjhoti/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://nabeel-vision-ai.lovable.app)
+
+</div>
+
+---
+
+<div align="center">
+
+### "Building products. Shipping fast. Solving real problems."
+
+</div>
 ```
