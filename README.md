@@ -18,15 +18,15 @@
 
 **Backend** · Python · FastAPI · Supabase · PostgreSQL
 
-**AI** · Gemini API · OpenAI · Vercel AI SDK · RAG Systems
+**AI** · OpenAI (GPT-4o Mini) · Gemini · RAG Systems · Vercel AI SDK
 
-**Tools** · Git · GitHub Actions · Vercel · Docker
+**Tools** · Git · GitHub Actions · Vercel · Docker · Stripe
 
 </div>
 
 ---
 
-### What I Do
+## What I Do
 
 Write detailed specs first → You approve → I build. No surprises, 100% delivery.
 
@@ -41,12 +41,12 @@ Write detailed specs first → You approve → I build. No surprises, 100% deliv
 <table>
   <tr>
     <td width="50%">
-      <b>AI Content Repurposer</b><br>
-      <sub>Next.js · Supabase · Gemini</sub>
+      <b>TechForge — E-commerce Storefront</b><br>
+      <sub>Next.js · TypeScript · Neon · Stripe</sub>
       <br><br>
-      Paste a blog → get Twitter threads, LinkedIn posts, Instagram captions, emails, SEO meta. Supports English & Roman Urdu.
+      Premium tech gadget store: cart, Stripe checkout, Neon-backed data layer, built-in admin panel.
       <br><br>
-      <a href="https://ai-content-repurposer-umber.vercel.app" target="_blank">Live →</a>
+      <a href="https://techforge-rust.vercel.app" target="_blank">Live →</a>
     </td>
     <td width="50%">
       <b>Jani — Karachi AI Guide</b><br>
@@ -59,18 +59,20 @@ Write detailed specs first → You approve → I build. No surprises, 100% deliv
   </tr>
   <tr>
     <td width="50%">
-      <b>Physical AI Book RAG</b><br>
-      <sub>Python · RAG · Gemini</sub>
+      <b>AI Content Repurposer</b><br>
+      <sub>Next.js · OpenAI GPT-4o Mini · Supabase</sub>
       <br><br>
-      Ask questions about physical AI concepts. PDF retrieval-augmented generation with textbook content.
+      Paste a blog → get X posts, LinkedIn post, Instagram captions, email newsletter, SEO meta. English & Roman Urdu.
       <br><br>
-      <a href="https://physical-ai-book-rag.vercel.app" target="_blank">Live →</a>
+      <a href="https://ai-content-repurposer-nabeel.vercel.app" target="_blank">Live →</a>
     </td>
     <td width="50%">
-      <b>Personal AI Employee</b><br>
-      <sub>Python · OpenAI · Automation</sub>
+      <b>TimeGrid — Booking SaaS</b><br>
+      <sub>Next.js · Supabase · Stripe · TypeScript</sub>
       <br><br>
-      Autonomous AI agent for task automation, research, and workflow management.
+      Multi-user appointment booking. Book → pay → confirm flow, full auth, per-user schedules and analytics.
+      <br><br>
+      <a href="https://time-grid-omega.vercel.app" target="_blank">Live →</a>
     </td>
   </tr>
 </table>
@@ -94,7 +96,7 @@ Write detailed specs first → You approve → I build. No surprises, 100% deliv
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://devnabeel.online)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nabeel-ali-329541291)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nabeelalimanjhoti)
 [![GitHub](https://img.shields.io/badge/GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NabeelManjhoti)
 
 </div>
